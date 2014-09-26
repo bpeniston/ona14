@@ -1,3 +1,3 @@
-Name: 
-Hometown: 
-Employer: 
+Name: Brad
+Hometown: STL
+Employer: Defense News
